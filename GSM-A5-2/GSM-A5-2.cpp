@@ -312,6 +312,7 @@ void test() {
 }
 
 int main(void) {
+	//Call Test now....
 	test();
 	getche();
 	return 0;
